@@ -1,4 +1,7 @@
-# Eciton Operating System
+# Eciton Operating System (Research Prototype)
+
+**Main branch is currently undergoing a major refactor to microkernel architecture.**
+**Exokernel research version is in `eciton_pre_v0_0_2` branch**
 
 Modular microkernel operating system. List of changes [here](CHANGELOG.md).
 
